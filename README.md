@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhoneMrattKyaw
-- 👀 I’m interested in woman
+- 👀 I’m interested in woman!
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
